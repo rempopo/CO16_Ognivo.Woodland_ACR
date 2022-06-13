@@ -58,7 +58,7 @@ tSF_ArtillerySupport_FiremissionsProperties = [
 tSF_ArtillerySupport_VirtualFiremissionsProperties = [
 	[
 		"82mm Mortar"
-		, [HE_RNDS(2,"8Rnd_82mm_Mo_shells"), SMK_RNDS(9,"8Rnd_82mm_Mo_Smoke_white"), ILLUM_RNDS(9,"8Rnd_82mm_Mo_Flare_white")]
+		, [HE_RNDS(6,"8Rnd_82mm_Mo_shells"), SMK_RNDS(9,"8Rnd_82mm_Mo_Smoke_white"), ILLUM_RNDS(9,"8Rnd_82mm_Mo_Flare_white")]
 		, [300, 4000]
 		, [25, 50]
 		, 3
@@ -66,7 +66,7 @@ tSF_ArtillerySupport_VirtualFiremissionsProperties = [
 	]
 	,[
 		"155mm Howitzer"
-		, [HE_RNDS(6,"32Rnd_155mm_Mo_shells"), SMK_RNDS(9,"6Rnd_155mm_Mo_smoke"), ILLUM_RNDS(-1,"")]
+		, [HE_RNDS(3,"32Rnd_155mm_Mo_shells"), SMK_RNDS(9,"6Rnd_155mm_Mo_smoke"), ILLUM_RNDS(-1,"")]
 		, [400, 24000]
 		, [25, 120]
 		, 3

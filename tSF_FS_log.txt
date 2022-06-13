@@ -1,5 +1,5 @@
 "####### tSF File Sweeper Engaged #######" 
-Mission directory:     K:\TacShift\CO16_Ognivo.Woodland_ACR\ 
+Mission directory:     C:\Users\Arsdor\Documents\Arma 3\mpmissions\CO16_Ognivo.Woodland_ACR\ 
 Mission fodler name:   CO16_Ognivo 
 Removing tSF Helpers 
 Removing DynAI Helpers 

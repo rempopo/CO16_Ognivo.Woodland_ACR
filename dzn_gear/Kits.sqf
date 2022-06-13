@@ -59,43 +59,43 @@
 
 
 kit_rus_86art_brm_crew = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","CUP_V_RUS_6B3_Flora_1","","cwr3_o_headgear_tsh3",""],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_Soldier_VKPO_MSV_EMR_gloves_pads","rhs_6sh92_digi_radio","rhs_rd54_vest_emr1","cwr3_o_headgear_tsh3",""],
 	["<PRIMARY WEAPON >>  ","rhs_weap_aks74u","CUP_30Rnd_545x39_AK74_plum_M",["CUP_muzzle_TGPA","","",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","WBK_survival_weapon_3","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
-	["<VEST ITEMS >> ",[["ACE_Canteen",2],["ZSN_Whistle",1],["rhs_30Rnd_545x39_7U1_AK",10],["rhs_mag_rgd5",2],["rhs_mag_nspn_red",1],["rhs_mag_nspn_yellow",1]]],
-	["<BACKPACK ITEMS >> ",[]]
-	,["<IDENTITY >>", ["GreekHead_A3_11","LivonianHead_9","Sturrock","cwr3_face_gabriel","cwr3_face_slava"], "ace_novoice", ""]
+	["<VEST ITEMS >> ",[["ACE_Canteen",2],["ZSN_Whistle",1],["rhs_30Rnd_545x39_7U1_AK",9],["rhs_mag_rgd5",1]]],
+	["<BACKPACK ITEMS >> ",[["ACE_DefusalKit",1],["ToolKit",1],["ACE_wirecutter",1],["ACE_EntrenchingTool",1]]]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_ar = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","CUP_V_RUS_6B3_Flora_1","CUP_O_RUS_Patrol_bag_Green_Shovel","CUP_H_RUS_SSH68_cover_vsr98","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","rhs_6b23_digi_6sh92_Spetsnaz","CUP_O_RUS_Patrol_bag_Green_Shovel","rhs_6b26_digi_ess","CUP_G_RUS_Balaclava_Ratnik"],
 	["<PRIMARY WEAPON >>  ","rhs_weap_rpk74m","rhs_45Rnd_545X39_7N10_AK",["CUP_muzzle_TGPA","","rhs_acc_1p78",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","Shovel_Russian","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",10]]],
+	["<VEST ITEMS >> ",[["PRIMARY MAG",7]]],
 	["<BACKPACK ITEMS >> ",[["rhs_45Rnd_545X39_AK_Green",3],["rhs_mag_rgd5",3]]]
-	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["cup_d_male04_ru","cup_d_male03_ru","cup_d_male02_ru"], ""]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_sl = [
-		["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","CUP_V_RUS_6B3_Flora_1","tf_rt1523g_green","CUP_H_RUS_SSH68_cover_vsr98","CUP_G_RUS_Balaclava_Ratnik_v2"],
+	["<EQUIPEMENT >>  ","rhs_uniform_emr_patchless","rhs_6b23_digi_6sh92_headset_mapcase","tf_mr3000_rhs","rhs_6b26_digi_ess_bala",""],
 	["<PRIMARY WEAPON >>  ","rhs_weap_aks74n","CUP_30Rnd_545x39_AK74_plum_M",["CUP_muzzle_TGPA","","rhs_acc_nita",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","Shovel_Russian","",["","","",""]],
-	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["rhs_30Rnd_545x39_AK_green",10]]],
 	["<BACKPACK ITEMS >> ",[["rhs_30Rnd_545x39_AK_green",2]]]
-	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["cup_d_male04_ru","cup_d_male03_ru","cup_d_male02_ru"], ""]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_gr = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","rhs_6sh92_vsr_vog","CUP_O_RUS_Patrol_bag_Green","CUP_H_RUS_SSH68_cover_vsr98","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","rhs_6b23_6sh116_vog","CUP_O_RUS_Patrol_bag_Green","CUP_H_RUS_6B27_cover_headset_goggles","CUP_G_RUS_Balaclava_Ratnik"],
 	["<PRIMARY WEAPON >>  ","rhs_weap_aks74n_gp25","CUP_30Rnd_545x39_AK74_plum_M",["CUP_muzzle_TGPA","","rhs_acc_nita",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","Shovel_Russian","",["","","",""]],
@@ -103,11 +103,11 @@ kit_rus_86art_recon_gr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_IlumFlareGreen_GP25_M",1],["CUP_1Rnd_SmokeGreen_GP25_M",2],["CUP_FlareGreen_GP25_M",2],["CUP_1Rnd_HE_GP25_M",20],["rhs_30Rnd_545x39_7N10_plum_AK",2]]],
 	["<BACKPACK ITEMS >> ",[["CUP_1Rnd_HE_GP25_M",5],["rhs_30Rnd_545x39_7N10_plum_AK",15],["rhs_mag_rgd5",5]]]
-,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["cup_d_male04_ru","cup_d_male03_ru","cup_d_male02_ru"], ""]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_r = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","rhs_6sh92_vsr_vog","CUP_O_RUS_Patrol_bag_Green","CUP_H_RUS_SSH68_cover_vsr98","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","rhs_6b23_digi_vydra_3m","CUP_O_RUS_Patrol_bag_Green","rhs_6b26_digi_bala","rhs_ess_black"],
 	["<PRIMARY WEAPON >>  ","rhs_weap_aks74n","CUP_30Rnd_545x39_AK74_plum_M",["CUP_muzzle_TGPA","","rhs_acc_nita",""]],
 	["<LAUNCHER WEAPON >>  ","CUP_launch_RPG26_Loaded","CUP_RPG26_M",["","","",""]],
 	["<HANDGUN WEAPON >>  ","Shovel_Russian","",["","","",""]],
@@ -115,23 +115,23 @@ kit_rus_86art_recon_r = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_30Rnd_545x39_7N6M_plum_AK",10]]],
 	["<BACKPACK ITEMS >> ",[["rhs_30Rnd_545x39_7N22_plum_AK",15],["rhs_mag_rgd5",5]]]
-,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["cup_d_male04_ru","cup_d_male03_ru","cup_d_male02_ru"], ""]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_mm = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","rhs_6sh92_vsr_radio","CUP_O_RUS_Patrol_bag_Green","rhs_fieldcap_m88_vsr_2","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","rhs_6b23_digi_sniper","CUP_O_RUS_Patrol_bag_Green","CUP_H_RUS_Cap_EMR","CUP_G_RUS_Balaclava_Ratnik"],
 	["<PRIMARY WEAPON >>  ","CUP_srifle_SVD","CUP_10Rnd_762x54_SVD_M",["rhs_acc_tgpv2","","CUP_optic_PSO_1",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhs_weap_pb_6p9","rhs_mag_9x18_8_57N181S",["rhs_acc_6p9_suppressor","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["rhs_10Rnd_762x54mmR_7N1",10],["CUP_8Rnd_9x18_MakarovSD_M",5]]],
+	["<VEST ITEMS >> ",[["rhs_10Rnd_762x54mmR_7N1",10],["CUP_8Rnd_9x18_MakarovSD_M",4]]],
 	["<BACKPACK ITEMS >> ",[["rhs_10Rnd_762x54mmR_7N1",25]]]
-,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["cup_d_male04_ru","cup_d_male03_ru","cup_d_male02_ru"], ""]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_at = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","rhs_6sh92_vsr_radio","rhs_rpg_6b2","","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","rhs_6b23_digi_rifleman","rhs_rpg_6b2","","CUP_G_RUS_Balaclava_Ratnik"],
 	["<PRIMARY WEAPON >>  ","rhs_weap_ak74n","rhs_30Rnd_545x39_7N6M_AK",["rhs_acc_dtk1983","","rhs_acc_pkas",""]],
 	["<LAUNCHER WEAPON >>  ","rhs_weap_rpg7","rhs_rpg7_PG7VL_mag",["","","rhs_acc_pgo7v2",""]],
 	["<HANDGUN WEAPON >>  ","rhs_weap_pb_6p9","rhs_mag_9x18_8_57N181S",["rhs_acc_6p9_suppressor","","",""]],
@@ -139,11 +139,11 @@ kit_rus_86art_recon_at = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_30Rnd_545x39_7N6_AK",8]]],
 	["<BACKPACK ITEMS >> ",[["rhs_rpg7_PG7VM_mag",2],["rhs_rpg7_OG7V_mag",2]]]
-,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["cup_d_male04_ru","cup_d_male03_ru","cup_d_male02_ru"], ""]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_med = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","CUP_V_RUS_6B3_Flora_1","cwr3_o_backpack_veshmeshok_medic_empty","CUP_H_SLA_Helmet_BLK_worn","CUP_G_RUS_Balaclava_Ratnik_v2"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","CUP_V_RUS_6B3_Flora_1","cwr3_o_backpack_veshmeshok_medic_empty","CUP_H_SLA_Helmet_BLK_worn","CUP_G_RUS_Balaclava_Ratnik_v2"],
 	["<PRIMARY WEAPON >>  ","rhs_weap_aks74n","CUP_30Rnd_545x39_AK74_plum_M",["CUP_muzzle_TGPA","","rhs_acc_nita",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","WBK_survival_weapon_3","",["","","",""]],
@@ -151,10 +151,11 @@ kit_rus_86art_recon_med = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["ZSN_Whistle",1],["rhs_30Rnd_545x39_AK_green",12]]],
 	["<BACKPACK ITEMS >> ",[["ACE_WaterBottle",10],["ACE_surgicalKit",1],["ACE_bloodIV_500",6],["ACE_fieldDressing",40],["ACE_elasticBandage",40],["ACE_packingBandage",40],["ACE_quikclot",40],["ACE_morphine",15],["ACE_epinephrine",15],["ACE_tourniquet",15]]]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 kit_rus_86art_recon_ftl = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","rhs_6sh92_vsr_vog","CUP_O_RUS_Patrol_bag_Green","cwr3_o_headgear_ssh68_net","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","rhs_uniform_emr_patchless","rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz","CUP_O_RUS_Patrol_bag_Green","rhs_6b26_digi_bala","CUP_G_ESS_RGR_Dark"],
 	["<PRIMARY WEAPON >>  ","rhs_weap_aks74n_gp25","CUP_30Rnd_545x39_AK74_plum_M",["CUP_muzzle_TGPA","","rhs_acc_nita",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","Shovel_Russian","",["","","",""]],
@@ -165,7 +166,7 @@ kit_rus_86art_recon_ftl = [
 ];
 
 kit_rus_86art_recon_sptr = [
-	["<EQUIPEMENT >>  ","CUP_U_O_RUS_VSR98_worn_gloves_MSV","rhs_6sh92_vsr_radio","CUP_O_RUS_Patrol_bag_Green","rhs_fieldcap_m88_vsr_2","CUP_G_RUS_Balaclava_Ratnik"],
+	["<EQUIPEMENT >>  ","CUP_U_O_RUS_EMR_gloves_pads","rhs_6b23_digi_vydra_3m","CUP_O_RUS_Patrol_bag_Green","rhs_Booniehat_digi","CUP_G_RUS_Balaclava_Ratnik"],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_AK74","rhs_30Rnd_545x39_7N10_AK",["CUP_muzzle_TGPA","","CUP_optic_PSO_1_AK_open",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhs_weap_pb_6p9","rhs_mag_9x18_8_57N181S",["rhs_acc_6p9_suppressor","","",""]],
@@ -173,9 +174,19 @@ kit_rus_86art_recon_sptr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_8Rnd_9x18_MakarovSD_M",5],["PRIMARY MAG",7]]],
 	["<BACKPACK ITEMS >> ",[["ACE_Canteen",5],["ACE_FlareTripMine_Mag",5],["rhs_mine_ozm72_a_mag",2],["rhs_mag_nspn_red",3],["rhs_mag_rgo",2]]]
+	,["<IDENTITY >>", ["RussianHead_4","cwr3_face_blake","usm_WhiteHead_01","WhiteHead_05","WhiteHead_27","WhiteHead_28","LivonianHead_1","LivonianHead_10","GreekHead_A3_09","usm_WhiteHead_15","WhiteHead_09","WhiteHead_31", "cwr3_face_troska","RussianHead_5"], ["ace_novoice"], ""]
 ];
 
 //Germany
+
+kit_ger_fjb_RANDOM = [
+"kit_ger_fjb_12_r"
+,"kit_ger_fjb_12_gr"
+,"kit_ger_fjb_12_mm"
+,"kit_ger_fjb_12_ar"
+,"kit_ger_fjb_12_sl"
+,"kit_ger_fjb_12_ftl"
+];
 
 kit_ger_fjb_12_r = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_Ger_Beret_KSK_Red",""],
@@ -186,6 +197,7 @@ kit_ger_fjb_12_r = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",5],["HANDGUN MAG",1]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["PRIMARY MAG",8],["CUP_HandGrenade_M67",3]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fjb_12_gr = [
@@ -197,6 +209,7 @@ kit_ger_fjb_12_gr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["CUP_20Rnd_762x51_G3",7]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["PRIMARY MAG",14],["CUP_30Rnd_556x45_G36",8]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fjb_12_mm = [
@@ -208,6 +221,7 @@ kit_ger_fjb_12_mm = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",15]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["1Rnd_HE_Grenade_shell",15]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fjb_12_ar = [
@@ -219,6 +233,7 @@ kit_ger_fjb_12_ar = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1]]],
 	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",10]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fjb_12_sl = [
@@ -230,6 +245,7 @@ kit_ger_fjb_12_sl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["PRIMARY MAG",11]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["SmokeShellBlue",11],["PRIMARY MAG",5]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fjb_12_ftl = [
@@ -241,6 +257,7 @@ kit_ger_fjb_12_ftl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["PRIMARY MAG",11]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["SmokeShellBlue",11],["PRIMARY MAG",5]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fjb_12_atgm_crew = [
@@ -252,6 +269,7 @@ kit_ger_fjb_12_atgm_crew = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_crewman = [
@@ -263,6 +281,7 @@ kit_ger_crewman = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 //Fernspaher
@@ -276,6 +295,7 @@ kit_ger_fernspaher_ftl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_30Rnd_556x45_M855_PMAG",10],["SmokeShell",1]]],
 	["<BACKPACK ITEMS >> ",[["CUP_1Rnd_StarCluster_Green_M203",2],["CUP_1Rnd_StarCluster_Red_M203",2],["CUP_1Rnd_SmokeYellow_M203",2],["CUP_1Rnd_SmokeRed_M203",2],["CUP_1Rnd_SmokeGreen_M203",2],["PRIMARY MAG",15],["CUP_HandGrenade_M67",5]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_fernspaher_mm = [
@@ -287,6 +307,7 @@ kit_ger_fernspaher_mm = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_20Rnd_46x30_MP7",5],["rhs_mag_m662_red",1],["rhs_mag_m713_Red",1],["PRIMARY MAG",4]]],
 	["<BACKPACK ITEMS >> ",[["rhs_mag_m662_red",5],["rhs_mag_m713_Red",5],["1Rnd_SmokePurple_Grenade_shell",1],["1Rnd_SmokeOrange_Grenade_shell",1],["1Rnd_SmokeGreen_Grenade_shell",1],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_Smoke_Grenade_shell",1],["1Rnd_SmokeYellow_Grenade_shell",1],["1Rnd_HE_Grenade_shell",10],["PRIMARY MAG",11]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 //Pilots and misc
@@ -300,6 +321,7 @@ kit_ger_heli_pilot = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HandGrenade",1],["SmokeShell",1],["SmokeShellRed",2],["CUP_30Rnd_556x45_G36_wdl",5],["ACE_Chemlight_HiRed",2],["ACE_Chemlight_HiYellow",2],["SmokeShellYellow",2],["ACE_HandFlare_Red",2],["ACE_HandFlare_Yellow",2],["HANDGUN MAG",2],["CUP_StarClusterRed_265_M",2],["CUP_IllumFlareRed_265_M",1],["CUP_IllumFlareYellow_265_M",1]]],
 	["<BACKPACK ITEMS >> ",[["CUP_30Rnd_TE1_Yellow_Tracer_556x45_G36_wdl",15]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_arf = [
@@ -311,9 +333,33 @@ kit_ger_arf = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
+];
+
+kit_ger_resting = [
+	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_8","","","CUP_H_Ger_Boonie2_Flecktarn","rhs_googles_black"],
+	["<PRIMARY WEAPON >>  ","","",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","","",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[]],
+	["<BACKPACK ITEMS >> ",[]]
 ];
 
 //Jager
+
+kit_ger_jager_RANDOM = [
+"kit_ger_jager_at"
+,"kit_ger_jager_mg"
+,"kit_ger_jager_sttp"
+,"kit_ger_jager_ftl"
+,"kit_ger_jager_sl"
+,"kit_ger_jager_ar"
+,"kit_ger_jager_snp"
+,"kit_ger_jager_aux"
+,"kit_ger_jager_mm"
+];
 
 kit_ger_jager_at = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_6","CUP_V_B_GER_Tactical_Fleck","CUP_B_GER_Pack_Flecktarn",JAGER_HELMETS,JAGER_MASKS],
@@ -324,6 +370,7 @@ kit_ger_jager_at = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[["CUP_30Rnd_TE1_Green_Tracer_556x45_G36_hex",15]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_mg = [
@@ -335,6 +382,19 @@ kit_ger_jager_mg = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",2]]],
 	["<BACKPACK ITEMS >> ",[["CUP_120Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",2]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
+];
+
+kit_ger_jager_mm = [
+	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_6","CUP_V_B_GER_Tactical_Fleck","CUP_B_GER_Pack_Flecktarn","CUP_H_Ger_Beret_INF_Grn","G_Bandanna_blk"],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_G3A3_modern_ris","ACE_10Rnd_762x51_Mk319_Mod_0_Mag",["","","CUP_optic_LeupoldMk4","CUP_bipod_G3SG1"]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","WBK_survival_weapon_4","",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["ACE_10Rnd_762x51_M118LR_Mag",15]]],
+	["<BACKPACK ITEMS >> ",[["ACE_Canteen",10],["HandGrenade",2],["CUP_20Rnd_TE1_Green_Tracer_762x51_G3",5]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_sttp = [
@@ -346,6 +406,7 @@ kit_ger_jager_sttp = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",12]]],
 	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_M67",5],["rhs_mag_an_m8hc",3],["PRIMARY MAG",5]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_ftl = [
@@ -357,6 +418,7 @@ kit_ger_jager_ftl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",12]]],
 	["<BACKPACK ITEMS >> ",[["CUP_30Rnd_556x45_G36",10],["MiniGrenade",2],["SmokeShellBlue",1],["SmokeShellGreen",1],["SmokeShellOrange",1],["SmokeShellPurple",1],["SmokeShellRed",1],["SmokeShellYellow",1]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_sl = [
@@ -368,6 +430,7 @@ kit_ger_jager_sl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",12]]],
 	["<BACKPACK ITEMS >> ",[["CUP_30Rnd_556x45_G36",10],["MiniGrenade",2],["SmokeShellBlue",1],["SmokeShellGreen",1],["SmokeShellOrange",1],["SmokeShellPurple",1],["SmokeShellRed",1],["SmokeShellYellow",1]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_ar = [
@@ -379,6 +442,7 @@ kit_ger_jager_ar = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",5]]],
 	["<BACKPACK ITEMS >> ",[["CUP_100Rnd_TE1_Green_Tracer_556x45_BetaCMag",6],["HandGrenade",2]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_snp = [
@@ -390,6 +454,7 @@ kit_ger_jager_snp = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",11]]],
 	["<BACKPACK ITEMS >> ",[["HandGrenade",2],["PRIMARY MAG",10]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_jager_aux = [
@@ -401,9 +466,26 @@ kit_ger_jager_aux = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10]]],
 	["<BACKPACK ITEMS >> ",[["CUP_30Rnd_TE1_Green_Tracer_556x45_G36_hex",15],["CUP_1200Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M",2]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 //GSG-9
+
+kit_ger_gsg9_RANDOM = [
+"kit_ger_gsg9_r"
+,"kit_ger_gsg9_r2"
+,"kit_ger_gsg9_ar"
+,"kit_ger_gsg9_sttp"
+,"kit_ger_gsg9_shg"
+,"kit_ger_gsg9_snp"
+,"kit_ger_gsg9_mm"
+,"kit_ger_gsg9_sptr"
+,"kit_ger_gsg9_at"
+,"kit_ger_gsg9_gr"
+,"kit_ger_gsg9_aa"
+,"kit_ger_gsg9_shb"
+];
+
 kit_ger_gsg9_r = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_2","CUP_V_B_LBT_LBV_Black","","cwr3_b_headgear_protec_full_goggles","cwr3_b_facewear_balaclava_khaki"],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_G36K_KSK","CUP_30Rnd_556x45_G36",["","acc_pointer_IR","CUP_optic_Elcan_SpecterDR_black_PIP",""]],
@@ -413,6 +495,7 @@ kit_ger_gsg9_r = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_30Rnd_TE1_Red_Tracer_556x45_G36",10],["rhs_mag_mk3a2",2],["HANDGUN MAG",3]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_r2 = [
@@ -424,6 +507,7 @@ kit_ger_gsg9_r2 = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",12],["CUP_HandGrenade_M67",2],["ACE_M84",1]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 kit_ger_gsg9_ar = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_2","CUP_V_B_LBT_LBV_Black","","cwr3_b_headgear_protec_half_headset","cwr3_b_facewear_balaclava_black"],
@@ -434,6 +518,7 @@ kit_ger_gsg9_ar = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["hlc_50rnd_762x51_MDIM_G3",2],["HANDGUN MAG",2],["16Rnd_9x21_Mag",1]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_sttp = [	
@@ -445,6 +530,7 @@ kit_ger_gsg9_sttp = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10],["30Rnd_9x21_Mag_SMG_02",2]]],
 	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_M67",2],["MiniGrenade",2],["rhs_mag_mk84",2],["ACE_CTS9",2],["rhs_mag_an_m8hc",3]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_shg = [
@@ -456,6 +542,7 @@ kit_ger_gsg9_shg = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_mk3a2",2],["HANDGUN MAG",3],["PRIMARY MAG",8]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_snp = [
@@ -467,6 +554,7 @@ kit_ger_gsg9_snp = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_20Rnd_762x51_G3",10]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",8]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_mm = [
@@ -478,6 +566,7 @@ kit_ger_gsg9_mm = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["ACE_10Rnd_762x51_Mk316_Mod_0_Mag",20]]],
 	["<BACKPACK ITEMS >> ",[["rhsusf_mag_40Rnd_46x30_AP",10]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_sptr = [
@@ -489,6 +578,7 @@ kit_ger_gsg9_sptr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_30Rnd_556x45_M855_PMAG",10],["CUP_IllumFlareWhite_265_M",6]]],
 	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_M67",3]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_gr = [
@@ -500,6 +590,7 @@ kit_ger_gsg9_gr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10],["HANDGUN MAG",4]]],
 	["<BACKPACK ITEMS >> ",[["1Rnd_HE_Grenade_shell",24]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_ftl = [
@@ -511,6 +602,7 @@ kit_ger_gsg9_ftl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",10],["HANDGUN MAG",4]]],
 	["<BACKPACK ITEMS >> ",[["CUP_1Rnd_HE_M203",10],["CUP_1Rnd_StarFlare_Red_M203",2],["CUP_FlareRed_M203",2],["CUP_1Rnd_SmokeRed_M203",2],["HANDGUN MAG",2],["CUP_FlareYellow_M203",1]]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_at = [
@@ -522,6 +614,7 @@ kit_ger_gsg9_at = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_30Rnd_TE1_Red_Tracer_556x45_G36",10],["rhs_mag_mk3a2",2],["HANDGUN MAG",3]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 kit_ger_gsg9_aa = [
@@ -533,6 +626,7 @@ kit_ger_gsg9_aa = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_30Rnd_TE1_Red_Tracer_556x45_G36",10],["rhs_mag_mk3a2",2],["HANDGUN MAG",3]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 
@@ -545,6 +639,7 @@ kit_ger_gsg9_shb = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["rhs_mag_mk3a2",2],["HANDGUN MAG",3],["PRIMARY MAG",8]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["WhiteHead_27","LivonianHead_2","GreekHead_A3_05","WhiteHead_18","GreekHead_A3_06","usm_WhiteHead_06","GreekHead_A3_08","cwr3_face_nichols","usm_WhiteHead_14","WhiteHead_15"], "ace_novoice", ""]
 ];
 
 
@@ -567,7 +662,7 @@ kit_pol_civ = [
 
 //Italy
 kit_ita_nocs_snp = [
-	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_6","V_BandollierB_oli","","TRYK_H_ghillie_over_green","CUP_RUS_Balaclava_blk"],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_gloves_OD","V_BandollierB_oli","","TRYK_H_ghillie_over_green","CUP_RUS_Balaclava_blk"],
 	["<PRIMARY WEAPON >>  ","CUP_srifle_AWM_wdl","CUP_5Rnd_86x70_L115A1",["CUP_muzzle_snds_AWM","","CUP_optic_LeupoldMk4_25x50_LRT_WOODLAND_pip","dzn_tripod_rifle_od"]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","WBK_survival_weapon_4","",["","","",""]],
@@ -575,10 +670,11 @@ kit_ita_nocs_snp = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",8],["MiniGrenade",1]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["GreekHead_A3_13","GreekHead_A3_01","GreekHead_A3_05","GreekHead_A3_11","GreekHead_A3_12","TanoanHead_A3_05", "WhiteHead_19","cwr3_face_fia_leader"], ["male01fre","male02fre","male03fre"], ""]
 ];
 
 kit_ita_nocs_sptr = [
-	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_6","V_BandollierB_rgr","","TRYK_H_ghillie_over_green","CUP_RUS_Balaclava_blk"],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_gloves_OD","V_BandollierB_rgr","","TRYK_H_ghillie_over_green","CUP_RUS_Balaclava_blk"],
 	["<PRIMARY WEAPON >>  ","CUP_arifle_G36A3_wdl","CUP_30Rnd_556x45_G36",["CUP_muzzle_snds_M16_camo","","CUP_optic_HensoldtZO_low_od","HLC_Panel_Under_4xXTME_RG"]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","WBK_survival_weapon_4","",["","","",""]],
@@ -586,6 +682,7 @@ kit_ita_nocs_sptr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["MiniGrenade",1],["PRIMARY MAG",9]]],
 	["<BACKPACK ITEMS >> ",[]]
+	,["<IDENTITY >>", ["GreekHead_A3_13","GreekHead_A3_01","GreekHead_A3_05","GreekHead_A3_11","GreekHead_A3_12","TanoanHead_A3_05", "WhiteHead_19","cwr3_face_fia_leader"], ["male01fre","male02fre","male03fre"], ""]
 ];
 
 
@@ -593,14 +690,13 @@ kit_ita_nocs_sptr = [
 cargo_kit_brdm_2 = [
 	[["CUP_launch_Igla_Loaded",1],["Shovel_Russian",3],["CUP_launch_RPG26_Loaded",1]],
 	[["CUP_PipeBomb_M",3],["rhs_45Rnd_545X39_AK_Green",3],["rhs_mag_rgd5",16],["rhs_45Rnd_545X39_7N10_AK",10],["rhs_rpg7_PG7VL_mag",1],["rhs_rpg7_OG7V_mag",2],["rhs_rpg7_PG7V_mag",2],["CUP_8Rnd_9x18_MakarovSD_M",13],["rhs_10Rnd_762x54mmR_7N1",35],["CUP_IlumFlareGreen_GP25_M",1],["CUP_1Rnd_SmokeGreen_GP25_M",2],["CUP_FlareGreen_GP25_M",2],["CUP_1Rnd_HE_GP25_M",25],["rhs_30Rnd_545x39_7N10_plum_AK",17],["CUP_30Rnd_545x39_AK74_plum_M",2],["rhs_30Rnd_545x39_7N6M_plum_AK",10],["rhs_30Rnd_545x39_7N22_plum_AK",15],["rhs_30Rnd_545x39_AK_green",12],["rhs_mag_rdg2_black",2],["rhs_mag_rdg2_white",2],["rhs_mag_nspn_red",2],["rhs_mag_nspn_yellow",2],["rhs_mag_nspn_green",2]],
-	[["ACE_WaterBottle",1],["ACE_fieldDressing",5],["ACE_packingBandage",5],["ACE_elasticBandage",5],["ACE_tourniquet",2],["ACE_morphine",2],["ACE_epinephrine",2]],
+	[["ACE_WaterBottle",15],["ACE_fieldDressing",5],["ACE_packingBandage",5],["ACE_elasticBandage",5],["ACE_tourniquet",2],["ACE_morphine",2],["ACE_epinephrine",2]],
 	[["RHS_Kornet_Tripod_Bag",1],["RHS_Kornet_Gun_Bag",1]]
 ];
 
 cargo_kit_brm = [
 	[["Shovel_Russian",4],["CUP_launch_RPG26_Loaded",1],["CUP_launch_Metis",1]],
 	[["CUP_PipeBomb_M",3],["rhs_45Rnd_545X39_AK_Green",3],["rhs_mag_rgd5",16],["rhs_45Rnd_545X39_7N10_AK",10],["rhs_rpg7_PG7VL_mag",1],["rhs_rpg7_OG7V_mag",2],["rhs_rpg7_PG7V_mag",2],["CUP_8Rnd_9x18_MakarovSD_M",13],["rhs_10Rnd_762x54mmR_7N1",35],["CUP_IlumFlareGreen_GP25_M",1],["CUP_1Rnd_SmokeGreen_GP25_M",2],["CUP_FlareGreen_GP25_M",2],["CUP_1Rnd_HE_GP25_M",25],["rhs_30Rnd_545x39_7N10_plum_AK",17],["CUP_30Rnd_545x39_AK74_plum_M",2],["rhs_30Rnd_545x39_7N6M_plum_AK",10],["rhs_30Rnd_545x39_7N22_plum_AK",15],["rhs_30Rnd_545x39_AK_green",12],["rhs_mag_rdg2_black",2],["rhs_mag_rdg2_white",2],["rhs_mag_nspn_red",2],["rhs_mag_nspn_yellow",2],["rhs_mag_nspn_green",2],["CUP_AT13_M",2]],
-	[["ACE_WaterBottle",1],["ACE_fieldDressing",5],["ACE_packingBandage",5],["ACE_elasticBandage",5],["ACE_tourniquet",2],["ACE_morphine",2],["ACE_epinephrine",2]],
-	[["CUP_B_AGS30_Gun_Bag",1],["CUP_B_AGS30_Tripod_Bag",1]]
+	[["ACE_WaterBottle",18],["ACE_fieldDressing",5],["ACE_packingBandage",5],["ACE_elasticBandage",5],["ACE_tourniquet",2],["ACE_morphine",2],["ACE_epinephrine",2]],
+	[["CUP_B_AGS30_Gun_Bag",1],["CUP_B_AGS30_Tripod_Bag",1],["rhs_tortila_olive",6]]
 ];
-

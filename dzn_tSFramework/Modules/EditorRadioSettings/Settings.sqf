@@ -4,7 +4,7 @@ tSF_ERS_initTimeout	=	5;
  *	On TRUE -- overrides Isolated parameters of vehicle by config
  *	On FALSE -- if vehicle class already has TFAR LR radio (and actual isolated settings) -- it will not be overriden
  */
-tSF_ERS_OverrideIsolatedConfigValue = false;
+tSF_ERS_OverrideIsolatedConfigValue = true;
 
 
 /*
@@ -15,11 +15,11 @@ tSF_ERS_OverrideIsolatedConfigValue = false;
  *		tSF_ERS_BLUFOR_LRRange		- range of LR radio for BLUFOR config
  *		tSF_ERS_BLUFOR_LRIsolated	- isolated property of vehicle for BLUFOR config
  */
-tSF_ERS_BLUFOR_LRRadioType		= "tf_rt1523g";
+tSF_ERS_BLUFOR_LRRadioType		= "tf_mr3000_rhs";
 tSF_ERS_BLUFOR_LRRange			= 30000; // meters
 tSF_ERS_BLUFOR_LRIsolated		= 0.5;
  
-tSF_ERS_OPFOR_LRRadioType		= "TFAR_mr3000";
+tSF_ERS_OPFOR_LRRadioType		= "tf_rt1523g_green";
 tSF_ERS_OPFOR_LRRange			= 30000; // meters
 tSF_ERS_OPFOR_LRIsolated		= 0.5;
  
